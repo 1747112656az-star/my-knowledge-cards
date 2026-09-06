@@ -1,0 +1,15 @@
+# Operating system metadata
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
+# Temporary files and editor backups
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Python cache from local validation
+__pycache__/
+*.pyc

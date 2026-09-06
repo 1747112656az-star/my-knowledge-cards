@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片"
+  short_description: "将粘贴文章或本地 Markdown、TXT 提炼为忠于原文的知识卡片"
+  default_prompt: "请使用 $my-knowledge-cards 将以下文章或本地 Markdown/TXT 文件整理为 5–8 张知识卡片，信息不足时少于 5 张。"
